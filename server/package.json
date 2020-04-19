@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks-trello-clone-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "apollo-server-express": "^2.12.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.3"
+  }
+}
