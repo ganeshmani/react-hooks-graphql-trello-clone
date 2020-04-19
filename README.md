@@ -35,3 +35,4 @@ This Repository demonstrates how to build a Trello Clone using React Hooks and G
   npm run start
 ```
 
+> Note: I purposely left out the completion of functionality. this app is just to give you an idea how to implement the logic. Feel free to raise a PR and complete the functionalities. it can be a good learning for everyone.
